@@ -1,4 +1,4 @@
-# Kibr Middle School - Student Report Card System (የክብር መካከለኛ ደረጃ ትምህርት ቤት የተማሪ ውጤት መግለጫ)
+# Diligent  School - Student Report Card System (ደሊጀንት ትምህርት ቤት የተማሪ ውጤት መግለጫ)
 
 ይህ መተግበሪያ የኪብር መካከለኛ ደረጃ ትምህርት ቤት የተማሪዎችን ውጤት ለመመዝገብ፣ ለመከታተል እና ማራኪ የሆኑ የተማሪ ውጤት መግለጫ ካርዶችን (Report Cards) በPDF ለማመንጨት የተዘጋጀ ሲስተም ነው።
 
